@@ -41,3 +41,22 @@ https://code.rnacanvas.app?schema=
 Check for any error messages in the console.
 
 Check that the sequence and drawing match those on the R2DT webpage.
+
+## Exporting drawings
+
+### SVG
+
+Open the Export form using the top-left Export button.
+
+Set the padding and scaling to several sets of random values
+and check that exported drawings conform to the specified padding and scaling values.
+
+Consider trying negative padding and scaling values (and scaling of zero).
+
+Try using the E key binding to export the draiwng while the Export form is open.
+
+Try using the E key binding to export the drawing while the Export form is closed.
+
+### PPTX
+
+Try converting an exported SVG drawing to PPTX.
