@@ -25,7 +25,7 @@ https://code.rnacanvas.app?sequence=AGAGUAGCAUUCUGCUUUAGACUGUUAACUUUAUGAACCACGCG
 
 Check for any error messages in the console.
 
-Check that the drawn sequences matches the one specified in the URL.
+Check that the drawn sequence matches the one specified in the URL.
 
 ### RNA 2D schemas
 
