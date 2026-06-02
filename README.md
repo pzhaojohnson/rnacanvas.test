@@ -93,6 +93,11 @@ both when the New form is still open and when it is being reopened).
 Try clicking on the Open button to open the Open form
 (check that the Open form opens on the right side of the app).
 
+### Open button (floating)
+
+Try clicking on the floating Open button (that is visible when a drawing is currently drawn)
+and check that the Open form opens (on the left side of the app).
+
 ### Open form
 
 Read through the Open form (check for any typos).
@@ -107,10 +112,13 @@ both when the Open form is still open and when it is being reopened).
 
 When trying to open saved drawings, test dropping the drawing file and pasting the drawing file into the app (in Chrome, Firefox and Safari on Windows, Mac and ChromeOS).
 
-Test opening saved drawings from the Start page and when there is already a drawing drawn.
+Test opening a saved drawing from the Start page and when there is already a drawing drawn.
 
 Saved drawings being tested should contain all types of elements that might be drawn
 (e.g., bases, outlines, numberings, numbering lines, primary bonds, secondary bonds).
+
+After opening a saved drawing, try moving / rotating bases around
+(check that attached elements such as outlines, numberings and bonds move with the bases they're attached to).
 
 Create a new drawing in the version of the app being tested (and try saving and reopening it).
 
@@ -123,6 +131,34 @@ which contains `tspan` elements inside nucleobase text elements.
 (Bases don't usually contain `tspan` elements anymore
 but the presence of these `tspan` elements can potentially interfere with user interaction with bases
 if not handled properly by the RNAcanvas Code codebase.)
+
+### Saving drawings
+
+Check that clicking the floating Save button saves the current drawing.
+
+Check that `Ctrl+S` (and `Command+S` on Mac) key bindings work for saving drawings.
+
+(The `Ctrl+S` key binding for saving drawings should also work on Mac.)
+
+### Exporting drawings (SVG)
+
+Open the Export form using the floating Export button.
+
+Set the padding and scaling to several sets of random values
+and check that exported drawings conform to the specified padding and scaling values.
+
+Consider trying negative padding and scaling values (and scaling of zero).
+
+Drawings being tested for export should contain all types of elements that might be drawn in RNAcanvas
+(e.g., bases, outlines, numberings, numbering lines, primary bonds, secondary bonds).
+
+Try using the E key binding to export the drawng while the Export form is open.
+
+Try using the E key binding to export the drawing while the Export form is closed.
+
+### Exporting drawings (PPTX)
+
+Try converting an exported SVG drawing to PPTX (following the instructions in the corresponding video guide).
 
 ## URL interface
 
@@ -153,22 +189,3 @@ https://code.rnacanvas.app?schema=
 Check for any error messages in the console.
 
 Check that the sequence and drawing match those on the R2DT webpage.
-
-## Exporting drawings
-
-### SVG
-
-Open the Export form using the top-left Export button.
-
-Set the padding and scaling to several sets of random values
-and check that exported drawings conform to the specified padding and scaling values.
-
-Consider trying negative padding and scaling values (and scaling of zero).
-
-Try using the E key binding to export the draiwng while the Export form is open.
-
-Try using the E key binding to export the drawing while the Export form is closed.
-
-### PPTX
-
-Try converting an exported SVG drawing to PPTX.
