@@ -16,6 +16,10 @@ npm test -- --silent
 
 # Manual testing
 
+### Start page
+
+Read through the text contents of the Start page (check for any typos).
+
 ### Contact email address
 
 Check that the contact email address shown on the Start page can be highlighted and copied in Chrome, Firefox and Safari web browsers.
