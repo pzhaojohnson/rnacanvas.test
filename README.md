@@ -16,6 +16,12 @@ npm test -- --silent
 
 # Manual testing
 
+### Contact email address
+
+Check that the contact email address shown on the Start page can be highlighted and copied in Chrome, Firefox and Safari web browsers.
+
+Try sending an email to the copied contact email address.
+
 ## URL interface
 
 ### Dot-bracket notation
