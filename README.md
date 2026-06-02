@@ -22,6 +22,10 @@ Check that the contact email address shown on the Start page can be highlighted 
 
 Try sending an email to the copied contact email address.
 
+### Video guides link
+
+Check that the video guides link on the Start page is working.
+
 ## URL interface
 
 ### Dot-bracket notation
