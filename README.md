@@ -55,6 +55,10 @@ Try sending an email to the copied contact email address from the Cite form.
 
 Try following the GitHub page link in the Cite form.
 
+### Drawings slideshow
+
+Watch the drawings slideshow on the Start page for about 10 seconds.
+
 ## URL interface
 
 ### Dot-bracket notation
