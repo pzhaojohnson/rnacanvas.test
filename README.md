@@ -152,13 +152,17 @@ Consider trying negative padding and scaling values (and scaling of zero).
 Drawings being tested for export should contain all types of elements that might be drawn in RNAcanvas
 (e.g., bases, outlines, numberings, numbering lines, primary bonds, secondary bonds).
 
+Try opening exported SVG drawings in Adobe Illustrator and Inkscape
+(check that the scaling matches the scaling specified at the time of export).
+
 Try using the E key binding to export the drawng while the Export form is open.
 
 Try using the E key binding to export the drawing while the Export form is closed.
 
 ### Exporting drawings (PPTX)
 
-Try converting an exported SVG drawing to PPTX (following the instructions in the corresponding video guide).
+Try converting an exported SVG drawing to PPTX (following the instructions in the corresponding video guide)
+and opening the resulting PPTX drawing in PowerPoint.
 
 ## URL interface
 
