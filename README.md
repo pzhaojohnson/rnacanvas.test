@@ -44,7 +44,7 @@ and try some links in the table of contents to see if they work.
 
 Check that the GitHub page link on the Start page works.
 
-### Citation request
+### Citations request (Start page)
 
 Check that the request for citations appears on the Start page.
 
@@ -83,6 +83,41 @@ Skim through the downloaded input formats file to check that it looks about righ
 Check that the instructions (and key binding) to open the web browser console are correct (on Windows, Mac and ChromeOS).
 
 Try pasting multiple sequences / structures into a single drawing.
+
+Try dragging the New form around with the mouse
+(clicking the New button again should reset the position of the New form
+both when the New form is still open and when it is being reopened).
+
+### Open button (Start page)
+
+Try clicking on the Open button to open the Open form
+(check that the Open form opens on the right side of the app).
+
+### Open form
+
+Read through the Open form (check for any typos).
+
+Check that displayed key bindings for opening the web browser console and for saving drawings are correct (on Windows, Mac and ChromeOS).
+
+Try dragging the Open form around with the mouse
+(clicking the Open button again should reset the position of the Open form
+both when the Open form is still open and when it is being reopened).
+
+### Opening a saved drawing
+
+When trying to open saved drawings, test dropping the drawing file and pasting the drawing file into the app (in Chrome, Firefox and Safari on Windows, Mac and ChromeOS).
+
+Test opening saved drawings from the Start page and when there is already a drawing drawn.
+
+Saved drawings being tested should contain all types of elements that might be drawn
+(e.g., bases, outlines, numberings, numbering lines, primary bonds, secondary bonds).
+
+Create a new drawing in the version of the app being tested (and try saving and reopening it).
+
+Create a new drawing in the currently deployed version of the app
+(and try saving and reopening it in the version of the app currently being tested).
+
+
 
 ## URL interface
 
