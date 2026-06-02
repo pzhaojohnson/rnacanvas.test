@@ -16,6 +16,9 @@ npm test -- --silent
 
 # Manual testing
 
+The following manual testing procedures can be performed before deploying a new version of the RNAcanvas Code app, for instance
+(or for testing a currently deployed version of the RNAcanvas Code app).
+
 ### Start page
 
 Read through the text contents of the Start page (check for any typos).
