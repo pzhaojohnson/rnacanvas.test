@@ -33,6 +33,10 @@ and try some links in the table of contents to see if they work.
 
 <b>Known issue:</b> Safari seems unable to play any videos in a GitHub README until all videos have loaded.
 
+### GitHub page link
+
+Check that the GitHub page link on the Start page works.
+
 ## URL interface
 
 ### Dot-bracket notation
