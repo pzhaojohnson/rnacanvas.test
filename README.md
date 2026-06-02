@@ -26,6 +26,13 @@ Try sending an email to the copied contact email address.
 
 Check that the video guides link on the Start page is working.
 
+### Video guides
+
+Check some videos to see if they can be played
+and try some links in the table of contents to see if they work.
+
+<b>Known issue:</b> Safari seems unable to play any videos in a GitHub README until all videos have loaded.
+
 ## URL interface
 
 ### Dot-bracket notation
