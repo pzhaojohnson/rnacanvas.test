@@ -63,6 +63,14 @@ Try following the GitHub page link in the Cite form.
 
 Watch the drawings slideshow on the Start page for about 10 seconds.
 
+### New button (Start page)
+
+Click the New button on the Start page to open the New form.
+
+### New form
+
+Read through the New form (check for any typos).
+
 ## URL interface
 
 ### Dot-bracket notation
