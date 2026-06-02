@@ -37,6 +37,24 @@ and try some links in the table of contents to see if they work.
 
 Check that the GitHub page link on the Start page works.
 
+### Citation request
+
+Check that the request for citations appears on the Start page.
+
+Check that the citations request link can be clicked on to open the Cite form.
+
+### Cite form
+
+Read through the Cite form to check its text contents.
+
+Try following the DOI link to the RNAcanvas NAR paper.
+
+Try highlighting and copying the contact email address in the Cite form.
+
+Try sending an email to the copied contact email address from the Cite form.
+
+Try following the GitHub page link in the Cite form.
+
 ## URL interface
 
 ### Dot-bracket notation
