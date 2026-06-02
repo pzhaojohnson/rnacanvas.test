@@ -71,6 +71,16 @@ Click the New button on the Start page to open the New form.
 
 Read through the New form (check for any typos).
 
+Try copying and pasting the example structure in the New form in Chrome, Firefox and Safari (on Windows, Mac and ChromeOS).
+
+Try downloading the list of supported input formats in Chrome, Firefox and Safari (on Windows, Mac and ChromeOS).
+
+Skim through the downloaded input formats file to check that it looks about right.
+
+Check that the instructions (and key binding) to open the web browser console are correct (on Windows, Mac and ChromeOS).
+
+Try pasting multiple sequences / structures into a single drawing.
+
 ## URL interface
 
 ### Dot-bracket notation
