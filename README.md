@@ -103,7 +103,7 @@ Try dragging the Open form around with the mouse
 (clicking the Open button again should reset the position of the Open form
 both when the Open form is still open and when it is being reopened).
 
-### Opening a saved drawing
+### Opening saved drawings
 
 When trying to open saved drawings, test dropping the drawing file and pasting the drawing file into the app (in Chrome, Firefox and Safari on Windows, Mac and ChromeOS).
 
@@ -117,7 +117,12 @@ Create a new drawing in the version of the app being tested (and try saving and 
 Create a new drawing in the currently deployed version of the app
 (and try saving and reopening it in the version of the app currently being tested).
 
+Try opening this [older drawing](https://github.com/pzhaojohnson/rnacanvas.test/blob/main/CYVaV%20WT%20conserved%20all%20class%202%20except%20CY1December%202022%20(1).rnacanvas),
+which contains `tspan` elements inside nucleobase text elements.
 
+(Bases don't usually contain `tspan` elements anymore
+but the presence of these `tspan` elements can potentially interfere with user interaction with bases
+if not handled properly by the RNAcanvas Code codebase.)
 
 ## URL interface
 
